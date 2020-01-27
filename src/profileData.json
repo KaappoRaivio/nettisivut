@@ -1,0 +1,72 @@
+{
+	"landing": {
+		"firstName": "Kaappo",
+		"lastName": " Raivio",
+		"phoneNumber": "+358 44 279 4938",
+		"bio": "I am a 16-year-old high school student in the Otaniemi high school's mathematics and science program. My interests include computer science and information technology in general, photographing and music.",
+    "email": "kaappo.raivio@gmail.com",
+    "linkedin": "",
+		"github": "https://github.com/KaappoRaivio",
+		"instagram": "https://instagram.com/kaappo.raivio"
+	},
+	"experience": [
+		{
+				"position": "Application Developent Associate",
+				"organization": "Accenture Technology Solutions Oy",
+				"aboutWork": "I took the position as a summer job and was able to use my abilities in creating software and hardware.",
+				"fromDate": "the start of June 2019",
+				"toDate": "the end of June 2019"
+		}
+	],
+	"education": [
+		{
+			"university": "Olari school",
+			"degree": "Mathematics and science program",
+			"gpa": "9,54",
+			"fromDate": "August 2016",
+			"toDate": "May 2019"
+		},
+		{
+			"university": "Otaniemi high school",
+			"degree": "Mathematics and science program",
+			"gpa": "9,22",
+			"fromDate": "August 2019",
+			"toDate": "Present"
+		}
+	],
+	"skills": [
+		{"name": "Java"},
+		{"name": "Python"},
+		{"name": "Git"},
+		{"name": "IBM Watson"}
+	],
+	"interests": {
+		"paragraphOne": "In addition to programming, I really like photographing. I also play the guitar and make arrangements for it.",
+		"paragraphTwo": ""
+	},
+	"awards": [
+		{
+			"awardDetail": "IBM Watson AI Competition, 1st place",
+			"link": "https://yle.fi/uutiset/3-9955641"
+		}
+	],
+	"images": [
+		"./images/DSC_6284.jpg",
+		"./images/DSC_2493.jpg",
+		"./images/DSC_4321.jpg",
+		"./images/DSC_5113.jpg",
+		"./images/DSC_5350.jpg",
+		"./images/DSC_5391.jpg",
+		"./images/DSC_5650.jpg",
+		"./images/DSC_5864.jpg",
+		"./images/DSC_5932.jpg",
+		"./images/DSC_5940.jpg",
+		"./images/DSC_6002.jpg",
+		"./images/DSC_6284.jpg",
+		"./images/DSC_6420.jpg",
+		"./images/DSC_7288.jpg",
+		"./images/DSC_7715.jpg",
+		"./images/DSC_7728.jpg"
+
+	]
+}
