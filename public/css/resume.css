@@ -191,8 +191,19 @@ section.resume-section .resume-item .resume-date {
   text-transform: uppercase;
   font-weight: bolder;
   color: var(--text-color);
-
 }
+
+.text-subtitle {
+  text-transform: uppercase;
+  font-weight: bolder;
+  color: var(--text-color);
+
+  font-size: 3rem !important
+}
+
+/* .text-subtitle {
+  text-transform: uppercase;
+} */
 
 a {
   color: var(--accent-color);
@@ -204,7 +215,7 @@ a:hover, a:focus, a:active {
 
 .portfolioimage {
   max-width:100%;
-  max-height:100%;
+  max-height:100% !important;
   margin-bottom: 1rem;
 }
 

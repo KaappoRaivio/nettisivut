@@ -39,10 +39,10 @@ class Sidebar extends Component {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav">
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#about">About</a>
+              <a className="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+              <a className="nav-link js-scroll-trigger" href="#about">Contact</a>
             </li>
           </ul>
         </div>

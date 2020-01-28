@@ -37,14 +37,13 @@ class App extends Component {
     return (
       <div className="App bg-secondary">
         <Sidebar sidebarData={this.state.landingData} />
-        <div className="container-fluid p-0 text-normal">
+        <div className="container-fluid p-0 text-normal">          
+          <div className="container-fluid p-0 text-normal">
+          <Portfolio images={this.state.images} />
+          </div>
           <Landing landingData={this.state.landingData} />
           <hr className="m-0" />
 
-        </div>
-
-        <div className="container-fluid p-0 text-normal">
-          <Portfolio images={this.state.images} />
         </div>
       </div>
     );
