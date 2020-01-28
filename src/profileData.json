@@ -51,22 +51,22 @@
 		}
 	],
 	"images": [
-		"./images/DSC_6284.jpg",
-		"./images/DSC_2493.jpg",
-		"./images/DSC_4321.jpg",
-		"./images/DSC_5113.jpg",
-		"./images/DSC_5350.jpg",
-		"./images/DSC_5391.jpg",
-		"./images/DSC_5650.jpg",
-		"./images/DSC_5864.jpg",
-		"./images/DSC_5932.jpg",
-		"./images/DSC_5940.jpg",
-		"./images/DSC_6002.jpg",
-		"./images/DSC_6284.jpg",
-		"./images/DSC_6420.jpg",
-		"./images/DSC_7288.jpg",
-		"./images/DSC_7715.jpg",
-		"./images/DSC_7728.jpg"
+		"./images/resized/DSC_6284.jpg",
+		"./images/resized/DSC_2493.jpg",
+		"./images/resized/DSC_4321.jpg",
+		"./images/resized/DSC_5113.jpg",
+		"./images/resized/DSC_5350.jpg",
+		"./images/resized/DSC_5391.jpg",
+		"./images/resized/DSC_5650.jpg",
+		"./images/resized/DSC_5864.jpg",
+		"./images/resized/DSC_5932.jpg",
+		"./images/resized/DSC_5940.jpg",
+		"./images/resized/DSC_6002.jpg",
+		"./images/resized/DSC_6284.jpg",
+		"./images/resized/DSC_6420.jpg",
+		"./images/resized/DSC_7288.jpg",
+		"./images/resized/DSC_7715.jpg",
+		"./images/resized/DSC_7728.jpg"
 
 	]
 }

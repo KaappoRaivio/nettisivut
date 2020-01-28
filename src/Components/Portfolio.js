@@ -16,19 +16,21 @@ class Portfolio extends Component {
 
   render () {
     return (
-      <section className="resume-section p-3 p-lg-5 Portfolio align-items-center" id="portfolio">
+      <section className="w-100 resume-section p-3 p-lg-5 Portfolio align-items-center" id="portfolio">
         <h1 className="mb-0 text-title portfolio">Portfolio</h1>
+        <div className="image-container">
         {
           this.images.map((image, index) => {
             // <img src="../Assets/DSC_6284.jpg" key={index} onError={(e) => alert(e)} />
             // <img src="https://www.w3schools.com/images/picture.jpg" key={index} />
             // const img = require(image);
             return (
-              <img className="portfolioimage" src={image} key={index} />
+              <img className="portfolioimage" src={image} key={index} alt="paska"/>
             )
 
           })
         }
+        </div>
       </section>
     )
   }
